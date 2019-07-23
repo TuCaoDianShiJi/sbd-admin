@@ -127,7 +127,7 @@ class Index extends Component{
                         </Col>
                         <Col xs={20} sm={11} md={4} lg={2} xl={2}>
                             <Form.Item>
-                                <Button type='primary' htmlType="submit">查询</Button>
+                                <Button type='primary' htmlType="submit" icon="search">查询</Button>
                             </Form.Item>
                         </Col>
                     </Row>
